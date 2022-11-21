@@ -18,6 +18,7 @@ fun main() {
 input = input!!.trim()
     if (input!![0] == '7')
     {
+        
         wasStringcorrect=checkString(input,1,ArrRes)
     }
     else
